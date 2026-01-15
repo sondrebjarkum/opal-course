@@ -1,2 +1,2 @@
-sample-opal-tools/typescript/greeting/node_modules/
-sample-opal-tools/typescript/greeting/dist/
+node_modules
+dist
